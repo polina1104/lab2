@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="incButton">Increment</string>
+    <string name="decButton">Decrement</string>
+    <string name="counter_input_value">Input value</string>
+    <string name="secondView">To 2nd view</string>
+    <string name="counter_value">Counter value</string>
+    <string name="default_counter_change_value">1</string>
+</resources>

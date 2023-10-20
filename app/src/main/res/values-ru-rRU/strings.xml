@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моё приложение</string>
+    <string name="incButton">Увеличить</string>
+    <string name="decButton">Уменьшить</string>
+    <string name="counter_input_value">Ввести значение</string>
+    <string name="secondView">Ко 2 экрану</string>
+    <string name="counter_value">Значение счётчика</string>
+    <string name="default_counter_change_value">1</string>
+</resources>
